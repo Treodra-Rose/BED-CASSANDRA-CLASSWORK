@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../../OneDrive/Programming/C#/Week01"
+	},
+	{
+		"path": "../../../../OneDrive/Programming/C#/Week02"
+	},
+	{
+		"path": "../../../../OneDrive/Programming/C#/Week03"
+	}
+],
+  "settings": {
+    "dotnet.defaultSolution": "ConsoleApp1/ConsoleApp1.sln"
+  }
+}
